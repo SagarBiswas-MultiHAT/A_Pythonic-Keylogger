@@ -1,3 +1,5 @@
+![Keylogger Example](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/471397385_122130958238552158_1760043521605638164_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=fYzt1sLxjGAQ7kNvgGaOLRj&_nc_zt=23&_nc_ht=scontent.fdac138-2.fna&_nc_gid=AGvR2X84hhFcM-GhdzDhIST&oh=00_AYBBvt9mQcURHHKZQCXf6c0xUDFzAOYoBH8j9hssAKMG5Q&oe=67701DB8)
+
 # Keylogger Script
 
 This repository contains a Python-based keylogger script that logs keystrokes and sends them via email. It includes robust error handling, log management, and retry mechanisms for email delivery.
