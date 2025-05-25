@@ -1,4 +1,4 @@
-![Keylogger Example](https://imgur.com/a/Emtyj5B)
+![Keylogger Example](https://imgur.com/a/Emtyj5B.png)
 
 # Keylogger Script
 
