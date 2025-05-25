@@ -1,8 +1,10 @@
-![Keylogger Example](https://imgur.com/dAyA3DS.png)
+
 
 # Keylogger Script
 
 This repository contains a Python-based keylogger script that logs keystrokes and sends them via email. It includes robust error handling, log management, and retry mechanisms for email delivery.
+
+![Keylogger Example](https://imgur.com/dAyA3DS.png)
 
 ## Features
 
